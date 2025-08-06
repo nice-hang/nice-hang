@@ -12,7 +12,6 @@
 <h2 align="left">Interests</h2>
 <p align="left">
 <br>⚡ Performance: I have a passion for Frontend Performance, especially Server Side Rendering，React server components, streaming rendering
-<br><img src="https://avatars.githubusercontent.com/u/14985020?s=48&v=4" height="20" alt="next.js"  />Next.js：Learn nextjs source code，I plan to implement a mini version of nextjs, implementing a few core functions with minimal code
 <br>🦀 Rust: Exploring open source projects, aspiring to work with Rust<br>🔗 Web3: Currently learning and exploring
 </p>
 
